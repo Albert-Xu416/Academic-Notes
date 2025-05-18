@@ -8,7 +8,7 @@ Welcome! This page contains selected summaries, notes, and conceptual sketches f
 
 - Real Analysis [Real Analysis Notes](Mathematics/Real%20Analysis/MATH321_Ultimate_Note.pdf)
 - Algebra
-- Pointset Topology 
+- Pointset Topology [Pointset Topology Notes](Mathematics/Pointset%20Topology)
 
 ### Physics
 
